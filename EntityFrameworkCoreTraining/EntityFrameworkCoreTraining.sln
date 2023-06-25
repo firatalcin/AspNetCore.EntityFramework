@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persisting_The_Data", "Persisting_The_Data\Persisting_The_Data.csproj", "{9F30C277-743F-4DBD-813A-1DC58633BA35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persisting_The_Data_Update", "Persisting_The_Data_Update\Persisting_The_Data_Update.csproj", "{E39052EB-A525-4C9F-80E1-B5469178D362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persisting_The_Data_Update", "Persisting_The_Data_Update\Persisting_The_Data_Update.csproj", "{E39052EB-A525-4C9F-80E1-B5469178D362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persisting_The_Data_Delete", "Persisting_The_Data_Delete\Persisting_The_Data_Delete.csproj", "{65009EC4-2CD9-4A32-8F94-48749EE04563}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E39052EB-A525-4C9F-80E1-B5469178D362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E39052EB-A525-4C9F-80E1-B5469178D362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E39052EB-A525-4C9F-80E1-B5469178D362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65009EC4-2CD9-4A32-8F94-48749EE04563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65009EC4-2CD9-4A32-8F94-48749EE04563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65009EC4-2CD9-4A32-8F94-48749EE04563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65009EC4-2CD9-4A32-8F94-48749EE04563}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
